@@ -7,7 +7,6 @@ import android.widget.Button;
 import android.widget.ImageView;
 
 import java.util.Random;
-import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
